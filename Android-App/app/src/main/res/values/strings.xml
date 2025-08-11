@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buds Switcher</string>
+
+    <string name="ip_address_hint">PC의 IP 주소를 입력하세요</string>
+    <string name="connect_to_pc">PC에 연결</string>
+    <string name="status_waiting">상태: 연결 대기 중</string>
+    <string name="status_connected">상태: PC에 연결됨</string>
+</resources>
