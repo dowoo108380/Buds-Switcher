@@ -54,7 +54,7 @@
 
 ## 기여자
 
-- **[파트너님 깃허브 ID]**
+- **https://stackoverflow.com/questions/62502414/how-to-connect-to-a-paired-audio-bluetooth-device-using-windows-uwp-api**
 - **gemini 2.5 pro**
 
 ---
