@@ -27,6 +27,7 @@
 1.  **PowerShell 설정 (최초 1회):**
     - PowerShell을 **'관리자 권한'**으로 실행합니다.
     - `Set-ExecutionPolicy RemoteSigned` 입력 후 `Y`를 눌러 실행 정책을 변경합니다.
+    - `Get-PnpDevice -Class Bluetooth | Format-List FriendlyName, Class, InstanceId, HardwareId, Status, Problem, ProblemDescription > "$env:USERPROFILE\Desktop\bluetooth_info.txt"`를 통해 블루투스 정보를 바탕화면에 저장합니다
 
 2.  **Python 라이브러리 설치:**
     - `PC-Agent` 폴더로 이동하여 터미널에 다음 명령을 입력합니다.
